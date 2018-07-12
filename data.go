@@ -7,13 +7,13 @@ import (
 	)
 	
 	
-	func avacado (s string) string {
+	func sayHello (s string) string {
 		return "Hello " + s
 		
 		}
 		
 		
 		func main () {
-			fmt.Println(avacado("Danell"))
+			fmt.Println(sayHello ("There"))
 			
 			}
